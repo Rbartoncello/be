@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-node_modules
-=======
 node_modules
 dist
->>>>>>> 70b7d43 (finish crud with auth, swagger docs and login with token creation)
